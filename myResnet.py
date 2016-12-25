@@ -1,5 +1,5 @@
 import os
-import xml.etree.ElementTree as ET
+#import xml.etree.ElementTree as ET
 import tensorflow as tf
 from tensorflow.python.ops import control_flow_ops
 from tensorflow.python.training import moving_averages

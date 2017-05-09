@@ -17,4 +17,6 @@ The validation accuracy I got was about 65%, as the following graph.
 ![image](/test_acc.png)
 
 
+I trained with all 50000 training images with each batch 100 images. Before each epoch (500 batches), I shuffled all 50000 training images.
+
 Did I miss anything when I implement the neural network? How should I improve?

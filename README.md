@@ -13,4 +13,4 @@ The running process is as follows:
 
 The validation accuracy I got was about 65%, as the following graph.
 
-![Alt text](/Screen Shot 2017-04-25 at 11.13.50 PM.png?raw=true "Optional Title")
+![Alt text](my-implementation-of-ResNet-in-Tensorflow/Screen Shot 2017-04-25 at 11.13.50 PM.png "Optional Title")

@@ -22,3 +22,5 @@ I trained with all 50000 training images with each batch 100 images. Before each
 I used AdamOptimizer with learning rate of 0.001 on training the network.
 
 Did I miss anything when I implement the neural network? How should I improve?
+
+I am a beginner on deep learning and I really appreciate any expert suggestions on improving this implementation.

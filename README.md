@@ -19,4 +19,6 @@ The validation accuracy I got was about 65%, as the following graph.
 
 I trained with all 50000 training images with each batch 100 images. Before each epoch (500 batches), I shuffled all 50000 training images.
 
+I used AdamOptimizer with learning rate of 0.001 on training the network.
+
 Did I miss anything when I implement the neural network? How should I improve?

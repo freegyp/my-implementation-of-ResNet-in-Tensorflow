@@ -15,3 +15,6 @@ The validation accuracy I got was about 65%, as the following graph.
 
 
 ![image](/test_acc.png)
+
+
+Did I miss anything when I implement the neural network? How should I improve?

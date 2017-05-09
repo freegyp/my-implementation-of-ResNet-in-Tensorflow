@@ -14,4 +14,4 @@ The running process is as follows:
 The validation accuracy I got was about 65%, as the following graph.
 
 
-![image](https://my-implementation-of-ResNet-in-Tensorflow/test_acc.png)
+![image](/test_acc.png)

@@ -16,7 +16,7 @@ I trained with all 50000 training images with each batch 100 images. Before each
 
 When training the network, I applied random up/down,left/right flips and random saturation and brightness.
 
-As the paper suggested, I used momentum optimizer with Nesterov's accelerated gradient, the momentum is 0.9 and the learning rate starts at 0.1 and gets divided by 10 when the epochs reaches 50 and 100.
+As the paper suggested, I used momentum optimizer with Nesterov's accelerated gradient, the momentum is 0.9 and the learning rate starts at 0.1 and gets divided by 10 when the epochs reaches 50 and 100. And I applied weight decay of 0.0001 to all the trainable weights, not including biases.
 
 Here's the link to the paper:
 
